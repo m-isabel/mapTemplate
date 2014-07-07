@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Make sure this is not committed or for public view! !-->
+    <string name="google_key">This is where the API key goes</string>
+</resources>
